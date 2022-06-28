@@ -1,4 +1,4 @@
-## Tutorial: Making and assessing FAIR biomedical data ##
+## Tutorial: Making and assessing FAIR biomedical data
 
 This tutorial was presented in [Medical Informatics Europe (MIE) 2022 in NICE](https://mie2022.org/). This tutorial targets at researchers, developers, students, data managers, data stewards, and anyone who is interested in research data management, FAIR guiding principles, making their digital resources FAIR, FAIRness assessment and improvement, and building biomedical domain-specific FAIRness evaluation tests for the community.
 
