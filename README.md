@@ -1,8 +1,10 @@
 ## Tutorial: Making and assessing FAIR biomedical data ##
 
-This tutorial was presented in Medical Informatics Europe (MIE) 2022 in NICE [conference](https://mie2022.org/). This tutorial targets at researchers, developers, students, data managers, data stewards, and anyone who is interested in research data management, FAIR guiding principles, making their digital resources FAIR, FAIRness assessment and improvement, and building biomedical domain-specific FAIRness evaluation tests for the community.
+This tutorial was presented in [Medical Informatics Europe (MIE) 2022 in NICE](https://mie2022.org/). This tutorial targets at researchers, developers, students, data managers, data stewards, and anyone who is interested in research data management, FAIR guiding principles, making their digital resources FAIR, FAIRness assessment and improvement, and building biomedical domain-specific FAIRness evaluation tests for the community.
 
-You can find the tutorial abstract [here](), and presentation slides [here]()
+You can find the tutorial abstract [here](https://github.com/MaastrichtU-IDS/FAIRnessEvaluationTutorial/blob/main/FAIRnessEvaluation_MIE_TutorialAbstract.pdf), and presentation slides [here](https://github.com/MaastrichtU-IDS/FAIRnessEvaluationTutorial/blob/main/MIE_TutorialSlides_20220529.pdf)
+
+
 ### Abstract 
 This tutorial sheds light on the intent of the FAIR principles, outline approaches to create biomedical data, and guide participants to automatically assess the FAIRness of digital resources. 
 
@@ -22,6 +24,6 @@ Automated FAIRness Evaluation Tools:
 - F-UJI: [webapp](https://www.f-uji.net/), [github](https://github.com/pangaea-data-publisher/fuji)
 - FAIR Checker: [webapp](https://fair-checker.france-bioinformatique.fr/), [github](https://github.com/IFB-ElixirFr/fair-checker)
 
-### Support or Contact
 
+### Support or Contact
 If you have any questions, discussion points, or want to collaborate, please feel free to contanct: [Chang Sun](chang.sun@maastrichtuniversity.nl), [Vincent Emonet](vincent.emonet@maastrichtuniversity.nl), [Michel Dumontier](michel.dumontier@maastrichtuniversity.nl).
