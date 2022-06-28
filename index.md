@@ -26,4 +26,4 @@ Automated FAIRness Evaluation Tools:
 
 ### Support or Contact
 
-If you have any questions, discussion points, or want to collaborate, please feel free to contanct: Chang Sun(chang.sun@maastrichtuniversity.nl), Vincent Emonet(vincent.emonet@maastrichtuniversity.nl), Michel Dumontier(michel.dumontier@maastrichtuniversity.nl).
+If you have any questions, discussion points, or want to collaborate, please feel free to contanct: [Chang Sun](mailto:chang.sun@maastrichtuniversity.nl), [Vincent Emonet](mailto:vincent.emonet@maastrichtuniversity.nl), [Michel Dumontier](mailto:michel.dumontier@maastrichtuniversity.nl).
